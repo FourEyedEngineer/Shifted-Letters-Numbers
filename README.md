@@ -1,8 +1,10 @@
 # Shifted-Letters-Numbers
 
 The purpose of this assignment was to shift the letters in the alphabet forward one so that when the user types on the keyboard, 
-the letter they pressed will enter the letter after it to the screen:
+the letter they pressed will enter the letter after it to the screen. When the user presses a numerical button the number 
+that appears should be the opposite of it
 
+For upper and lower case
 a -> b
 
 b -> c
@@ -55,9 +57,7 @@ y -> z
 
 z -> a
 
-(and same for the upper case letters)
-The numbers on should be flipped so that their output should be as shown:
-
+Digits
 0 -> 9
 
 1 -> 8
