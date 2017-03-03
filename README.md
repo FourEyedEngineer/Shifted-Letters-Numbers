@@ -58,12 +58,22 @@ z -> a
 (and same for the upper case letters)
 The numbers on should be flipped so that their output should be as shown:
 
-0 -> 9    5 -> 4
+0 -> 9
 
-1 -> 8    6 -> 3
+1 -> 8
 
-2 -> 7    7 -> 2
+2 -> 7
 
-3 -> 6    8 -> 1
+3 -> 6
 
-4 -> 5    9 -> 0
+4 -> 5
+
+5 -> 4
+
+6 -> 3
+
+7 -> 2
+
+8 -> 1
+
+9 -> 0
